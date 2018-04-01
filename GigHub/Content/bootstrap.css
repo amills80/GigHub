@@ -4519,8 +4519,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   color: #999999;
 }
 
-.navbar-inverse .navbar-nav > li > a {
-  color: #999999;
+.navbar-inverse ul.navbar-nav > li > a {
+  color: #eaeaea;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
